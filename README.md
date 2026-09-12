@@ -8,7 +8,7 @@
 
 [![Release](https://img.shields.io/github/v/release/heyysam1/omni-mcp?style=flat-square&color=10B981)](https://github.com/heyysam1/omni-mcp/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-38BDF8?style=flat-square)](https://github.com/heyysam1/omni-mcp/releases/latest)
-[![License](https://img.shields.io/badge/license-Pending-gray?style=flat-square)](#license)
+[![License](https://img.shields.io/badge/license-MIT-10B981?style=flat-square)](LICENSE)
 
 [**Download for Windows (v1.0.0)**](https://github.com/heyysam1/omni-mcp/releases/latest) • [Key Features](#key-capabilities) • [Supported Clients](#supported-ai-clients) • [Security](#security-overview) • [Development](#development)
 
@@ -131,4 +131,6 @@ Contributions, bug reports, and suggestions are welcome. Please read [CONTRIBUTI
 
 ## License
 
-Copyright © 2026. License status pending official designation. See project repository updates for future licensing details.
+Omni MCP is open-source software licensed under the [MIT License](LICENSE).
+
+Copyright © 2026 Sami.
